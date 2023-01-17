@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "create-react-app": "^5.0.1"
-  }
+  },
+  "name": "react-bank-of-flatiron",
+  "description": "React application that displays a  list of your recent bank transactions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rukorio-Vanessa/React-Bank-of-Flatiron.git"
+  },
+  "author": "Vanessa Rukorio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rukorio-Vanessa/React-Bank-of-Flatiron/issues"
+  },
+  "homepage": "https://github.com/Rukorio-Vanessa/React-Bank-of-Flatiron#readme"
 }
