@@ -7,7 +7,7 @@ function MainContainer() {
     const [tables, setTables] = useState([])
     //GET request for all the details to use as entries for the bank transactions
     useEffect(() => {
-        fetch("http://localhost:3000/transactions")
+        fetch("http://localhost:8001/transactions")
           .then((r) => r.json())
           .then((data) => setTables(data)) 
       }, [])
