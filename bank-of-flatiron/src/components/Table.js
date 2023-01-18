@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-function Table(props) {
+function Tables(props) {
   return (
 
     <tr>
@@ -12,4 +12,4 @@ function Table(props) {
     </tr>
   )
 }
-export default Table
+export default Tables
